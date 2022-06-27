@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <div><div>Ben Was Ere</div><div>{data}</div></div>;
+  return <div><div>Sup Bitches</div><div>Ben was ere</div><div>{data}</div></div>;
 }
 
 export default App;
